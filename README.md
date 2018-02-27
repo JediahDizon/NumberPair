@@ -1,4 +1,4 @@
-# NumberPair
+# Number Pair
 For Synopsys code reviewers. This is a simple Javascript program that will utilize
 a class that finds any pairs of numbers in a sequence that adds up to 10.
 
@@ -8,3 +8,4 @@ series of test cases that will print out pairs of numbers depending on the list
 proided for each case.
 
 ## Screenshot
+![Current Screenshot](https://github.com/JediahDizon/NumberPair/blob/master/doc/Screenshots/Screenshot%20-%202.PNG "Logo")

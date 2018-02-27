@@ -8,4 +8,4 @@ series of test cases that will print out pairs of numbers depending on the list
 proided for each case.
 
 ## Screenshot
-![Current Screenshot](https://github.com/JediahDizon/NumberPair/blob/master/doc/Screenshots/Screenshot%20-%202.PNG "Logo")
+![Current Screenshot](https://github.com/JediahDizon/NumberPair/blob/master/doc/screenshots/Screenshot%20from%202018-02-26%2018.28.07.png "Logo")
